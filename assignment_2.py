@@ -1,3 +1,5 @@
+# %% imports
+
 # %%
 # write a function that appends an element to a list
 def get_list_with_appended_element(list, element):
@@ -92,6 +94,83 @@ def get_keys_from_dict(dict):
 def get_values_from_dict(dict):
     '''
     returns the values of a dictionary
+    '''
+
+    # TODO: YOUR CODE HERE
+
+    return result
+
+# %%
+# write a function that appends an element to a numpy array
+def get_numpy_array_with_appended_element(array, element):
+    '''
+    returns a numpy array to whom an element is appended
+    '''
+
+    # TODO: YOUR CODE HERE
+
+    return result
+
+# %%
+# write a function that appends the elements of a numpy array to another numpy array
+def get_numpy_array_with_appended_array(array1, array2):
+    '''
+    returns a numpy array to whom the elements of another numpy array are appended
+    '''
+
+    # TODO: YOUR CODE HERE
+
+    return result
+
+# %%
+# write a function that returns a numpy array containing the numbers from the mth to the nth element of a nuumpy array
+def get_numpy_array_with_elements_from_m_to_n(array, m, n):
+    '''
+    returns a numpy array containing the numbers from the mth to the nth element of a numpy array
+    '''
+
+    # TODO: YOUR CODE HERE
+
+    return result
+
+# %%
+# write a function that returns the size of a numpy array
+def get_size_of_numpy_array(array):
+    '''
+    returns the size of a numpy array
+    '''
+
+    # TODO: YOUR CODE HERE
+
+    return result
+
+# %%
+# write a function that returns the dot product of two numpy arrays
+def get_dot_product_of_numpy_arrays(array1, array2):
+    '''
+    returns the dot product of two numpy arrays
+    '''
+
+    # TODO: YOUR CODE HERE
+
+    return result
+
+# %%
+# write a function that returns the cross product of two numpy arrays
+def get_cross_product_of_numpy_arrays(array1, array2):
+    '''
+    returns the cross product of two numpy arrays
+    '''
+
+    # TODO: YOUR CODE HERE
+
+    return result
+
+# %%
+# write a function that returns the product of two numpy arrays multiplied element-wise
+def get_element_wise_product_of_numpy_arrays(array1, array2):
+    '''
+    returns the product of two numpy arrays multiplied element-wise
     '''
 
     # TODO: YOUR CODE HERE

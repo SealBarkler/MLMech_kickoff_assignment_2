@@ -176,3 +176,102 @@ def get_element_wise_product_of_numpy_arrays(array1, array2):
     # TODO: YOUR CODE HERE
 
     return result
+
+# %%
+# write a function that converts a list to a numpy array float32
+def get_numpy_array_from_list(list):
+    '''
+    returns a numpy array (float32) from a list
+    '''
+
+    # TODO: YOUR CODE HERE
+
+    return result
+
+# %%
+# write a function that appends an element to a numpy array
+def get_tensor_with_appended_element(tensor, element):
+    '''
+    returns a numpy array to whom an element is appended
+    '''
+
+    # TODO: YOUR CODE HERE
+
+    return result
+
+# %%
+# write a function that appends the elements of a numpy array to another numpy array
+def get_tensor_with_appended_tensor(tensor1, tensor2):
+    '''
+    returns a numpy array to whom the elements of another numpy array are appended
+    '''
+
+    # TODO: YOUR CODE HERE
+
+    return result
+
+# %%
+# write a function that returns a numpy array containing the numbers from the mth to the nth element of a nuumpy array
+def get_tensor_with_elements_from_m_to_n(tensor, m, n):
+    '''
+    returns a numpy array containing the numbers from the mth to the nth element of a numpy array
+    '''
+
+    # TODO: YOUR CODE HERE
+
+    return result
+
+# %%
+# write a function that returns the size of a numpy array
+def get_size_of_tensor(tensor):
+    '''
+    returns the size of a numpy array
+    '''
+
+    # TODO: YOUR CODE HERE
+
+    return result
+
+# %%
+# write a function that returns the dot product of two numpy arrays
+def get_dot_product_of_tensor(tensor1, tensor2):
+    '''
+    returns the dot product of two numpy arrays
+    '''
+
+    # TODO: YOUR CODE HERE
+
+    return result
+
+# %%
+# write a function that returns the cross product of two numpy arrays
+def get_cross_product_of_tensors(tensor1, tensor2):
+    '''
+    returns the cross product of two numpy arrays
+    '''
+
+    # TODO: YOUR CODE HERE
+
+    return result
+
+# %%
+# write a function that returns the product of two numpy arrays multiplied element-wise
+def get_element_wise_product_of_tensors(tensor1, tensor2):
+    '''
+    returns the product of two numpy arrays multiplied element-wise
+    '''
+
+    # TODO: YOUR CODE HERE
+
+    return result
+
+# %%
+# write a function that converts a list to a numpy array float32
+def get_tensor_from_list(list):
+    '''
+    returns a numpy array (float32) from a list
+    '''
+
+    # TODO: YOUR CODE HERE
+
+    return result
